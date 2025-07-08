@@ -74,7 +74,7 @@ Roadmap
 [ ] Publish project highlights on LinkedIn and Kaggle
 
 Contact
-GitHub: fohu44
+GitHub: [https://github.com/fohu44/bc_tourism_analytics]
 
 LinkedIn: [https://www.linkedin.com/in/fatihozcelik/]
 

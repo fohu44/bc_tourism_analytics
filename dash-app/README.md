@@ -38,7 +38,7 @@ Event Annotations: Highlights major events (e.g., COVID-19, wildfires) on a time
 Installation
 Clone this repository
 
-git clone https://github.com/your-username/bc-tourism-dashboard.git
+git clone https://github.com/fohu44/bc-tourism-dashboard.git
 cd bc-tourism-dashboard
 Create and activate a Python environment
 
@@ -87,6 +87,6 @@ Integrate forecasting models (Prophet, ARIMA) with error-metric comparisons
 Implement user authentication and role-based access
 
 Contact
-Fatih Email: fatih.ozcelk@gmail.com GitHub: https://github.com/your-username
+Fatih Email: fatih.ozcelk@gmail.com GitHub: https://github.com/fohu44
 
 Feel free to open an issue or submit a pull request!
