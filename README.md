@@ -35,7 +35,13 @@ bc_tourism_analytics/ ├── data-cleaning/ # Jupyter notebook & cleaned CSV 
 - Python: pandas, plotly, dash  
 - Jupyter Notebook  
 - Git & GitHub  
-- Open Government Data BC  
+- Open Government Data BC
+  
+---
+## 🖥️ Live Dashboard
+
+**🚀 Deployed App:**  
+👉 [bc-tourism-analytics-1.onrender.com](https://bc-tourism-analytics-1.onrender.com)
 
 ---
 
